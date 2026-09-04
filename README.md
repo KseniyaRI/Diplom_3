@@ -36,3 +36,7 @@ mvn clean test -Dbrowser=yandex
 ```bash
 mvn allure:serve
 ```
+
+![Allure: конструктор и вход](img/allure-report-1.png)
+
+![Allure: выход, навигация и регистрация](img/allure-report-2.png)
